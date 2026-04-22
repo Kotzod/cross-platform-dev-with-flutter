@@ -1,0 +1,19 @@
+# Flutter
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/.pub-cache/
+**/.pub/
+**/ios/Pods/
+**/android/.gradle/
+**/.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+*.iml
